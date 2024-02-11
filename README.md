@@ -1,6 +1,6 @@
 # Gestor de Clientes MySQL en Go
 
-# Comandos ejecutados:
+### Comandos ejecutados:
 ```cmd
     go get github.com/joho/godotenv
     go get -u github.com/go-sql-driver/mysql
